@@ -4,4 +4,4 @@ jobs:
     docker: 
       - image: "circleci/clojure:latest"
     steps:
-      - run: exit 0
+      - run: exit 1
